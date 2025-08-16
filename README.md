@@ -2,7 +2,7 @@
 # Xadrez game
 Developed with tkinter 
 
-### This is my first game interface powered by Python. This project was the foundation of my developer career, and today I decided to implement the remaining features.
+This is my first game interface powered by Python. This project was the foundation of my developer career, and today I decided to implement the remaining features.
 
 ## How to run? 
 
